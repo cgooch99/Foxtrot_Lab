@@ -15,7 +15,9 @@ body {
 
 
 /* Page Content */
-.content {padding:20px;}
+.content {
+  padding:20px;
+}
 
 /* Degree Major */
 .card {
@@ -28,8 +30,11 @@ body {
 }
 
 /* About Me Section */
-.container {padding:20px;};
+.container {
+  padding:20px;
+};
 
+/* Footer */
 .footer { 
   text-align: center;
   padding: 3px;

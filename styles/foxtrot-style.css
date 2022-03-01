@@ -23,6 +23,8 @@ body {
   background-color: #D3D3D3;
   transition: 0.3s;
   width: 40%;
+  margin: 0 auto;
+  text-align: center;
 }
 
 /* About Me Section */
@@ -33,6 +35,7 @@ body {
   padding: 3px;
   background-color: DarkSalmon;
   color: white;
+  margin: 0 auto;
 }
 
 
